@@ -27,6 +27,7 @@ struct TotalActivityReportz: DeviceActivityReportScene {
         representing data: DeviceActivityResults<DeviceActivityData>
     ) async -> EmptyConfiguration {
         // Ignore data for now
+        // THIS IS NEVER BEING HIT AT ALL
         fatalError("da fatal error")
     }
 }
