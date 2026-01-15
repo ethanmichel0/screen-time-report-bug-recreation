@@ -6,5 +6,6 @@ report that woudl be super helpful. DeviceActivityMonitor extension is working f
 Photo showing extension is embedded: <img width="1154" height="468" alt="image" src="https://github.com/user-attachments/assets/019061fa-f6f0-4cd8-af91-0ac093e2fa32" />
 <img width="1136" height="494" alt="image" src="https://github.com/user-attachments/assets/c71f9e7a-b00c-4574-8947-74171c92f3ba" />
 
+This shows that the extension made it onto my iphone correctly
 <img width="569" height="134" alt="Screenshot 2026-01-14 at 6 24 35 PM" src="https://github.com/user-attachments/assets/983df898-9606-44ae-a342-cae08893f1ee" />
 
